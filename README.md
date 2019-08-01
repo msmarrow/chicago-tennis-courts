@@ -1,6 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Mapping Chicago Tennis Courts
 
-## Available Scripts
+Description: An app that maps Chicago's tennis courts using Google Maps API. Written with React.js. 
+
+## Usage
 
 In the project directory, you can run:
 
